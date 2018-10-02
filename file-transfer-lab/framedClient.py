@@ -67,5 +67,14 @@ if s is None:
 
 file = input("What file would you like to send to the server? ")
 print("Attempting to send file.")
-framedSend(s, file, debug)
-print("received:", framedReceive(s, debug))
+
+with open(file, 'rb') as f:
+    print("received:", framedReceive(s, debug))
+    lines = [line.rstrip('\n') for line in open(file)]
+    # print(lines)
+    for line in lines:
+        l = bytes(line,'utf-8')
+        framedSend(s, l, debug)
+        # print(l)
+        print("received:", framedReceive(s, debug))
+f.close()
