@@ -69,7 +69,7 @@ file = input("What file would you like to send to the server? ")
 print("Attempting to send file.")
 
 with open(file, 'rb') as f:
-    print("received:", framedReceive(s, debug))
+    
     lines = [line.rstrip('\n') for line in open(file)]
     # print(lines)
     for line in lines:
