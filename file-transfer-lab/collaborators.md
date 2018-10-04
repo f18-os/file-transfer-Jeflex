@@ -1,6 +1,6 @@
-*****Built off code from
+Built off code from:
 
-** Dr. Eric, Freudenthal **
+Dr. Eric, Freudenthal
 
 Stack-Overflow articles read:
 
