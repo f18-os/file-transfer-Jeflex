@@ -1,5 +1,5 @@
 # Phillip Hassoun's FTP lab
-##### From Dr.Freudenthals OS class
+### From Dr.Freudenthals OS class
 
 [Contribution file for this project](./CONTRIBUTING.md)
 
