@@ -1,5 +1,5 @@
 # Phillip Hassoun's FTP lab
-##### From Dr.Freudenthals OS class
+##### From Dr.Freudenthals OS class [Contribution guidelines for this project](docs/CONTRIBUTING.md)
 
 **Step 1**
 > Run framedForkServer.py
