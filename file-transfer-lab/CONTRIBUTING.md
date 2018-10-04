@@ -1,8 +1,8 @@
-* Built off code from:
+# Built off code from:
 
 **Dr. Eric, Freudenthal**
 
-***** Stack-Overflow articles read:
+### Stack-Overflow articles read:
 
 https://stackoverflow.com/questions/7585435/best-way-to-convert-string-to-bytes-in-python-3
 
