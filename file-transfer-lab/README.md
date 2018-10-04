@@ -18,7 +18,7 @@ python3 ./framedClient.py
 ```
 ClientMessage.txt
 ```
-_ The program will only look for files in the root directory _
+* The program will only look for files in the root directory *
 
 **Step 4**
 >Open the file in the root directory with your text editor. Here we use atom
